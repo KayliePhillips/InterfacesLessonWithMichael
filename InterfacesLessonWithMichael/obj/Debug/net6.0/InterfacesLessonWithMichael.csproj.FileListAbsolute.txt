@@ -1,0 +1,15 @@
+C:\Users\kayly\Desktop\Repos\InterfacesLessonWithMichael\InterfacesLessonWithMichael\bin\Debug\net6.0\InterfacesLessonWithMichael.exe
+C:\Users\kayly\Desktop\Repos\InterfacesLessonWithMichael\InterfacesLessonWithMichael\bin\Debug\net6.0\InterfacesLessonWithMichael.deps.json
+C:\Users\kayly\Desktop\Repos\InterfacesLessonWithMichael\InterfacesLessonWithMichael\bin\Debug\net6.0\InterfacesLessonWithMichael.runtimeconfig.json
+C:\Users\kayly\Desktop\Repos\InterfacesLessonWithMichael\InterfacesLessonWithMichael\bin\Debug\net6.0\InterfacesLessonWithMichael.dll
+C:\Users\kayly\Desktop\Repos\InterfacesLessonWithMichael\InterfacesLessonWithMichael\bin\Debug\net6.0\InterfacesLessonWithMichael.pdb
+C:\Users\kayly\Desktop\Repos\InterfacesLessonWithMichael\InterfacesLessonWithMichael\obj\Debug\net6.0\InterfacesLessonWithMichael.csproj.AssemblyReference.cache
+C:\Users\kayly\Desktop\Repos\InterfacesLessonWithMichael\InterfacesLessonWithMichael\obj\Debug\net6.0\InterfacesLessonWithMichael.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayly\Desktop\Repos\InterfacesLessonWithMichael\InterfacesLessonWithMichael\obj\Debug\net6.0\InterfacesLessonWithMichael.AssemblyInfoInputs.cache
+C:\Users\kayly\Desktop\Repos\InterfacesLessonWithMichael\InterfacesLessonWithMichael\obj\Debug\net6.0\InterfacesLessonWithMichael.AssemblyInfo.cs
+C:\Users\kayly\Desktop\Repos\InterfacesLessonWithMichael\InterfacesLessonWithMichael\obj\Debug\net6.0\InterfacesLessonWithMichael.csproj.CoreCompileInputs.cache
+C:\Users\kayly\Desktop\Repos\InterfacesLessonWithMichael\InterfacesLessonWithMichael\obj\Debug\net6.0\InterfacesLessonWithMichael.dll
+C:\Users\kayly\Desktop\Repos\InterfacesLessonWithMichael\InterfacesLessonWithMichael\obj\Debug\net6.0\refint\InterfacesLessonWithMichael.dll
+C:\Users\kayly\Desktop\Repos\InterfacesLessonWithMichael\InterfacesLessonWithMichael\obj\Debug\net6.0\InterfacesLessonWithMichael.pdb
+C:\Users\kayly\Desktop\Repos\InterfacesLessonWithMichael\InterfacesLessonWithMichael\obj\Debug\net6.0\InterfacesLessonWithMichael.genruntimeconfig.cache
+C:\Users\kayly\Desktop\Repos\InterfacesLessonWithMichael\InterfacesLessonWithMichael\obj\Debug\net6.0\ref\InterfacesLessonWithMichael.dll
